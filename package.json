@@ -2,7 +2,7 @@
   "name": "smartpaste",
   "displayName": "Smart Paste",
   "description": "Paste JSON/XML As Classes/JSON/XML",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "rebornix",
   "engines": {
     "vscode": "^1.0.0"
@@ -13,6 +13,13 @@
   "activationEvents": [
     "onCommand:smart.paste"
   ],
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/rebornix/vscode-smartpaste.git"
+	},
+	"bugs": {
+		"url": "https://github.com/rebornix/vscode-smartpaste/issues"
+	},
   "icon": "images/copy.png",
   "main": "./out/src/extension",
   "contributes": {
