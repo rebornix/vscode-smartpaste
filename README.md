@@ -13,3 +13,6 @@ Invoke command pallate, type `smartpaste`, hit enter!
 
 ## TODO
 * Convert JSON/XML to Classes
+
+## Logo
+The project logo comes from [Benjamin STAWARZ](https://www.iconfinder.com/butterflytronics) under [Creative Commons (Attribution 3.0 Unported)](http://creativecommons.org/licenses/by/3.0/)

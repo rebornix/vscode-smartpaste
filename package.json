@@ -13,6 +13,7 @@
   "activationEvents": [
     "onCommand:smart.paste"
   ],
+  "icon": "images/copy.png",
   "main": "./out/src/extension",
   "contributes": {
     "commands": [
