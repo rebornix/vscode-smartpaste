@@ -2,7 +2,7 @@
   "name": "smartpaste",
   "displayName": "Smart Paste",
   "description": "Paste JSON/XML As Classes/JSON/XML",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "rebornix",
   "engines": {
     "vscode": "^1.0.0"
